@@ -1,0 +1,1 @@
+# HUMAN-ACTIVITY-Recognition-using-Smart-Phone-data
